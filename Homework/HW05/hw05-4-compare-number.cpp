@@ -41,4 +41,5 @@ int main() {
     } else {
         printf("Number1 equal Number2\n");
     }
+    return 0;
 }
